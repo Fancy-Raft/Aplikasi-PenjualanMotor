@@ -1,2 +1,5 @@
 # TUGAS BESAR PEMROGRAMAN
-Mohon doanya agar project ini selesai dengan cepat. ❤️❤️❤️❤️❤️❤️
+
+# Project ini menggunakan bahasa c# - di run menggunakan VISUAL STUDIO
+
+
